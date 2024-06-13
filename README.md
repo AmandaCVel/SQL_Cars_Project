@@ -9,3 +9,5 @@ There are plenty of comments, giving lots of details as to:
     * Why I needed the code
     * There are some comments detailing the process I took/thoughts when typing out the code and why
     * There are some errors mentioned in the foundation. I find it a good thing to see the mistakes and to show solutions
+
+Please Note: When reading the code if you see "Picture ..." that is becuase there is a screenshot associated with that code. These picutres will be accessible on the website.  
